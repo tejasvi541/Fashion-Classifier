@@ -17,6 +17,7 @@
   - When the model get trained the square in the left will get filled with black, then draw some clothing items to classify.
   
   - Following classes can be classified : 
+  
     0: T-shirt/top
     
     1: Trouser
