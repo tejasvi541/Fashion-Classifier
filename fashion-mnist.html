@@ -1,0 +1,24 @@
+<html>
+  <head>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-vis"></script>
+    <link rel="stylesheet" href="imgfash.css" />
+  </head>
+  <body>
+    <h1 id="heading">Fashion Classifier!</h1>
+    <canvas
+      id="canvas"
+      width="280"
+      height="280"
+      style="position: absolute; top: 100; left: 100; border: 8px solid"
+    ></canvas>
+    <img
+      id="canvasimg"
+      style="position:absolute;top:10%;left:52%;width=280;height=280;display:none;"
+    />
+    <input type="button" value="classify" id="sb" />
+    <input type="button" value="clear" id="cb" />
+    <script src="fashion-data.js" type="module"></script>
+    <script src="fashion-script_exercise.js" type="module"></script>
+  </body>
+</html>

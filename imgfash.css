@@ -1,0 +1,29 @@
+body{
+    background-color: #9acdd3;
+}
+
+#heading{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    left: 100px;
+}
+
+#cb{
+    background-color: #93abd3;
+    border-radius: 20%;
+    margin-top: 10px;
+    padding: 20px;
+    position: absolute; 
+    top: 400; 
+    left: 200;
+}
+
+#sb{
+    background-color: #93abd3;
+    border-radius: 20%;
+    margin-top: 10px;
+    padding: 20px;
+    position: absolute; 
+    top: 400; 
+    left: 100;
+}
