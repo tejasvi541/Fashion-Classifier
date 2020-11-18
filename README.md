@@ -11,5 +11,9 @@
 
 ## Play Around with it ---
   [Netifly Webapp Link](https://fashionmnistclassifier.netlify.app)
+  
+  - First Wait for sometime till the model trains.
+  
+  - When the model get trained the square in the left will get filled with black, then draw some clothing items to classify.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2e2b9742-3634-4f00-8395-305acde66251/deploy-status)](https://app.netlify.com/sites/fashionmnistclassifier/deploys)
