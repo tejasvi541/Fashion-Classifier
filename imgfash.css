@@ -14,8 +14,8 @@ body{
     margin-top: 10px;
     padding: 20px;
     position: absolute; 
-    top: 400; 
-    left: 200;
+    top: 180; 
+    left: 430;
 }
 
 #sb{
@@ -24,6 +24,6 @@ body{
     margin-top: 10px;
     padding: 20px;
     position: absolute; 
-    top: 400; 
-    left: 100;
+    top: 100; 
+    left: 430;
 }
