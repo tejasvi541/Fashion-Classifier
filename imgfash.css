@@ -8,6 +8,19 @@ body{
     left: 100px;
 }
 
+.instructions{
+    display:table-column;
+    position: absolute;
+    top: 240px;
+    left: 430px;
+    padding-left: 10px;
+    
+}
+.instruction{
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+}
+
 #cb{
     background-color: #93abd3;
     border-radius: 20%;
