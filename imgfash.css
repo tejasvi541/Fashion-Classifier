@@ -11,8 +11,10 @@ body{
 .instructions{
     display:table-column;
     position: absolute;
+    color: crimson;
     top: 240px;
     left: 430px;
+    width: 200px;
     padding-left: 10px;
     
 }
